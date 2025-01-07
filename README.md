@@ -13,7 +13,7 @@
  images, unlabeled test images and important calibration data, was used to evaluate the
  technique. Visual inspection of projected 3D bounding boxes on test images was used
  to evaluate the model’s performance, with an emphasis on alignment accuracy, object
- location and orientation stability. The outcomes show that various objects scales, and
+ location, and orientation stability. The outcomes show that various objects scales, and
  congested locations our method reliably generates reliable and robust 3D bounding
  boxes.
  Further, proposed model evaluation shows how well geometric constraints and acquired
