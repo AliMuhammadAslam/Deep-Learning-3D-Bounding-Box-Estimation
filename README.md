@@ -20,4 +20,4 @@
  deep features work together to improve the overall performance of 3D object estima
 tions. Despite certain drawbacks, like alignment at extreme orientations and less precise
  results in situations with a lot of chaos, the outcomes confirm the robustness, accuracy,
- and precision of our methodology
+ and precision of our methodology.
